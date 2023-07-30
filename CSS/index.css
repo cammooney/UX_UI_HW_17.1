@@ -1,0 +1,75 @@
+body{
+    display: flexbox;
+}
+
+.navbar{
+    align-items: start;
+    background-color: antiquewhite; 
+    max-height: 
+
+}
+
+.inline-block{
+    display: inline-block;
+    vertical-align: top;
+}
+
+.logo{
+    width: 23%;
+    padding: 1%;
+}
+
+nav{
+    width: 73%;
+    padding: 1%;
+    position: absolute;
+
+}
+
+ul{
+    width: 70%;
+    margin-left: auto;
+    align-items: start;
+    color: green;
+    font-size: 36px;
+}
+
+.heroimg{
+    height: 50%;
+    padding-top: 30px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+.content {
+    text-align: center;
+    color: green;
+    font-size: large;
+    
+}
+
+button{
+    width: 144px;
+    height: 50px;
+    color: white;
+    background-color: olivedrab;
+    font-size: medium;
+}
+
+footer{
+    background-color: #373738;
+}
+h2{
+    text-align: center;
+    color: lightpink;
+    padding-top: 5px;
+
+}
+#footer{
+    font-size: medium;
+    color: lightpink;
+    text-align: center;
+    padding-bottom: 10px;
+}
